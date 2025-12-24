@@ -3,13 +3,13 @@ const telefono = "+542210000000";
 
 const data = {
  cocteles: [
-  "Mojito","Wiscola","Gin tonic","Fernet con coca", "Daiquiri Frutilla","Daiquiri Durazno",
+  "Mojito","Wiscola","Gin tonic","Fernet con coca", "Daiquiri Frutilla","Daiquiri Durazno", "Gancia"
  ],
  cervezas: [
   "Lager","IPA","Stout","Amber Ale","Honey"
  ],
  sinAlcohol: [
-  "Agua","Agua con gas","Coca Cola","Sprite","Jugo Naranja","Jugo Manzana"
+  "Agua","Agua con gas","Coca Cola","Sprite","Jugo Naranja","Jugo Manzana", 
  ],
  espumante: [
   "Sidra","Champagne"
